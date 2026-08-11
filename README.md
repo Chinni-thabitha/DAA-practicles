@@ -1,1 +1,1 @@
-# DAA-practicai
+# DAA-practical
